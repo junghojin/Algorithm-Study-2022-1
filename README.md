@@ -4,6 +4,8 @@ We are proceeding Algorithm Study from January, 2022.
 
 **Reference: https://github.com/tony9402/baekjoon**
 
+-----
+
 **4월 2일 토요일 스터디**
 |      문제      | 레벨 |                           URL                            | 세환 | 재철 | 호진 | 지은 |   
 | :------------: | :--: | :------------------------------------------------------: |:--:|:--:| :--:|:--:|    
