@@ -3,8 +3,7 @@ We are proceeding Algorithm Study from January, 2022.
 ## The first quarter: 
 - We finished the first warming up from January to February.
 - Reference book: http://www.yes24.com/Product/Goods/91433923
-> - URL: https://github.com/WeedInGist/Problem-solving.git
-> 
+- URL: https://github.com/WeedInGist/Problem-solving.git
 >The process we commited can be shown in the above site.
 
 ## The second quarter: 
