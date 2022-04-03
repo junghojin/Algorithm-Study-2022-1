@@ -58,13 +58,13 @@ public class Main_13164_Greedy {
 		}
 		// ============== input end ===================
 
-		1. 각 원생의 키 차이를 구한다.
+		// 1. 각 원생의 키 차이를 구한다.
 		for (int i = 1; i < N; i++) { // O(2N) = O(N)
 			diffs[i - 1] = heights[i] - heights[i - 1];
 		}
 		Arrays.sort(diffs); // 키 차이를 오름차순 정렬
 
-		// N-K개 만큼의 차를 더한다.
+		// 2. N-K개 만큼의 차를 더한다.
 		int result = 0;
 		for (int i = 0; i < N - K; i++) { //O(N-K)
 			result += diffs[i];
