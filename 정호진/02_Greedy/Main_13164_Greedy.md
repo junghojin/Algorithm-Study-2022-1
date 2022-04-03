@@ -10,11 +10,11 @@
 
 - 원생의 수: 1 ≤ N ≤300,000
 - 조의 수: 1 ≤ K ≤ N
-- 원생의 키는 $10^9$를 넘지 않는 자연수
+- 원생의 키는 10^9를 넘지 않는 자연수
 
 # 3. 아이디어
 
-![Untitled (Draft)-7.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3bc3e11e-ad10-4901-acfa-de0f029defd8/Untitled_(Draft)-7.jpg)
+<img src="https://github.com/junghojin/AlgorithmStudy2022/blob/d640b35372e7ceb95914adf4794e29914cfac3e5/%EC%A0%95%ED%98%B8%EC%A7%84/02_Greedy/img/Main_13164_img1.JPG"\>
 
 ---
 
