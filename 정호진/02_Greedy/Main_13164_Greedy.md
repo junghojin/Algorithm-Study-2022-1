@@ -14,11 +14,11 @@
 
 # 3. 아이디어
 
-<img src="https://github.com/junghojin/AlgorithmStudy2022/blob/d640b35372e7ceb95914adf4794e29914cfac3e5/%EC%A0%95%ED%98%B8%EC%A7%84/02_Greedy/img/Main_13164_img2.JPG">
+<img width="600" src="https://github.com/junghojin/AlgorithmStudy2022/blob/d640b35372e7ceb95914adf4794e29914cfac3e5/%EC%A0%95%ED%98%B8%EC%A7%84/02_Greedy/img/Main_13164_img2.JPG">
 
 ---
 
-<img src="https://github.com/junghojin/AlgorithmStudy2022/blob/d640b35372e7ceb95914adf4794e29914cfac3e5/%EC%A0%95%ED%98%B8%EC%A7%84/02_Greedy/img/Main_13164_img1.JPG">
+<img width="600" src="https://github.com/junghojin/AlgorithmStudy2022/blob/d640b35372e7ceb95914adf4794e29914cfac3e5/%EC%A0%95%ED%98%B8%EC%A7%84/02_Greedy/img/Main_13164_img1.JPG">
 
 ---
 
