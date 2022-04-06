@@ -19,7 +19,7 @@ We are proceeding Algorithm Study from January, 2022.
 
 -----
 
-### 4월 2일 토요일 스터디 - 
+### 4월 2일 토요일 스터디 - 그리디
 
 > **참고**: 참고 사이트 <br>
 > **풀이**: 스터디원이 직접 작성한 설명
