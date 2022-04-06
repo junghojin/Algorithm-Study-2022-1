@@ -1,5 +1,6 @@
 # AlgorithmStudy2022
-We are proceeding Algorithm Study from January, 2022.
+We are proceeding Algorithm Study from January, 2022.  
+
 2022년 1월 부터 스터디를 진행하고 있습니다.
 
 ## The first quarter: 
