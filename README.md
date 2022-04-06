@@ -23,7 +23,7 @@ We are proceeding Algorithm Study from January, 2022.
 
 > **참고**: 참고 사이트 <br>
 > **풀이**: 스터디원이 직접 작성한 설명 <br>
-> **Collection.sort()에서 사용하는 팀정렬: https://www.youtube.com/watch?v=HHN1axRRKx8&t=1637s **
+> **Collection.sort()에서 사용하는 팀정렬 강의**: https://www.youtube.com/watch?v=HHN1axRRKx8&t=1637s
 
 |      문제      | 레벨 |                           URL                            | 세환 | 재철 | 호진 | 지은 | 설명 |  
 | :------------: | :--: | :------------------------------------------------------: |:--:|:--:|:--:|:--:|:--:|   
