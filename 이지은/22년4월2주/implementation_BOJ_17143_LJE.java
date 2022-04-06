@@ -52,7 +52,15 @@ public class implementation_BOJ_17143_LJE { // 낚시왕 = 우리아빠 = 물고
 						int dy = k;//map[j][k].c;
 						
 						//이동하는 위치 구하기
-						for (int l = 0; l < map[j][k].s; l++) { //map[j][k].s 1초에 가는 칸수 만큼 반복
+						// 시간초과 해결하기 위해 map[j][k].s의 값을 줄여줌
+						int speed = 0;
+						if(map[j][k].d>2) { // 3 4 즉 우 좌로 이동할때 = 가로로만 움직임 = C
+							speed = map[j][k].s % ((C-1)*2);
+						}else { // 세로로 움직일 때 
+							speed = map[j][k].s % ((R-1)*2);
+						}
+						
+						for (int l = 0; l < speed; l++) { //map[j][k].s 1초에 가는 칸수 만큼 반복
 							//한칸씩 이동하면서 처리해주기
 							dx += deltas[map[j][k].d][0];
 							dy += deltas[map[j][k].d][1];
@@ -89,6 +97,7 @@ public class implementation_BOJ_17143_LJE { // 낚시왕 = 우리아빠 = 물고
 					temp[j][k] = null;
 				}
 			}
+			/*
 			System.out.println("------"+i+"열---------잡은 상어 힘: "+answer);
 			for (int j = 1; j <= R; j++) {
 				for (int k = 1; k <= C; k++) {
@@ -100,9 +109,8 @@ public class implementation_BOJ_17143_LJE { // 낚시왕 = 우리아빠 = 물고
 				}
 				System.out.println();
 			}
-			
+			*/
 		}
-
 	}
 
 
@@ -126,6 +134,7 @@ public class implementation_BOJ_17143_LJE { // 낚시왕 = 우리아빠 = 물고
 			int z = Integer.parseInt(st.nextToken());
 			map[r][c] = new shark(r, c, s, d, z);
 		}
+		/*
 		System.out.println("------"+0+"열---------잡은 상어 힘: "+answer);
 		for (int j = 1; j <= R; j++) {
 			for (int k = 1; k <= C; k++) {
@@ -137,6 +146,7 @@ public class implementation_BOJ_17143_LJE { // 낚시왕 = 우리아빠 = 물고
 			}
 			System.out.println();
 		}
+		*/
 		fishing();
 		System.out.println(answer);
 	}
