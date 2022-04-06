@@ -17,7 +17,7 @@ We are proceeding Algorithm Study from January, 2022.
 ### 4월 2일 토요일 스터디 - 구현
 |      문제      | 레벨 |                           URL                            | 세환 | 재철 | 호진 | 지은 | 설명 |  
 | :------------: | :--: | :------------------------------------------------------: |:--:|:--:| :--:|:--:|:--:|   
-|  최소회의실 개수   |  Gold 5   | [문제](https://www.acmicpc.net/problem/19598) |[-]()|[-]()|[-]()|[-]()|[-]()|   
+|  최소회의실 개수   |  Gold 5   | [문제](https://www.acmicpc.net/problem/19598) |[-]()|[-]()|[-]()|[-]()|[참고](https://hillier.tistory.com/115)|   
 |  행복 유치원   |  Gold 5   | [문제](https://www.acmicpc.net/problem/13164) |[-]()|[-]()|[Code](https://github.com/junghojin/AlgorithmStudy2022/blob/82e35c27f92fa9e0053b4d4f7632455ee65b9b59/%EC%A0%95%ED%98%B8%EC%A7%84/02_Greedy/Main_13164_Greedy.java)|[-]()|[풀이](https://github.com/junghojin/AlgorithmStudy2022/blob/70a306673f8258b265abd3b6c4d9067000e50c61/%EC%A0%95%ED%98%B8%EC%A7%84/02_Greedy/Main_13164_Greedy.md)| 
 |  택배   |  Gold 3   | [문제](https://www.acmicpc.net/problem/8980) |[-]()|[-]()|[-]()|[-]()|[-]()|
 
