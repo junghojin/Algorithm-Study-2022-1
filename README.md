@@ -14,7 +14,6 @@ We are proceeding Algorithm Study from January, 2022.
 - 우리는 더 높은 레벨의 문제에 도전하기로 하였습니다. 일주일 3문제씩 풀고 내용을 업로드 합니다. 
 - We decided to upgrade the level of questions from Gold 1 to Gold 5
 - **Reference: https://github.com/tony9402/baekjoon**
-
 </br>
 
 -----
