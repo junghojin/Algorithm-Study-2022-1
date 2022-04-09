@@ -1,76 +1,102 @@
 package Implement;
-
-import java.io.*;
-import java.util.*;
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.util.Arrays;
+import java.util.StringTokenizer;
 
 public class Solution_2112 {
-    static int tc,d,w,k;
-    static int min;
-    static int map[][];
-    public static void main(String[] args) throws IOException {
+
+    static int[][] map, temp;
+    static int D, W, K, T, ans;
+
+    public static void main(String[] args) throws NumberFormatException, IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer st = null;
-        tc = Integer.parseInt(br.readLine());
 
-        for(int t=1 ; t<=tc; t++){
+        T = Integer.parseInt(br.readLine());
+
+        for(int t = 1 ; t <= T ; ++t) {
             st = new StringTokenizer(br.readLine());
-            d = Integer.parseInt(st.nextToken());
-            w = Integer.parseInt(st.nextToken());
-            k = Integer.parseInt(st.nextToken());
 
-            map = new int[d][w];
+            D = Integer.parseInt(st.nextToken());
+            W = Integer.parseInt(st.nextToken());
+            K = Integer.parseInt(st.nextToken());
 
-            for(int i=0; i<d; i++){
+            map = new int[D][W];
+            temp = new int[D][W];
+            ans = Integer.MAX_VALUE;
+
+            for(int r = 0 ; r < D ; ++r) {
                 st = new StringTokenizer(br.readLine());
-                for(int j=0; j<w; j++){
-                    map[i][j] = Integer.parseInt(st.nextToken());
+                for(int c = 0 ; c < W ; ++c) {
+                    int type = Integer.parseInt(st.nextToken());
+                    map[r][c] = temp[r][c] = type;
                 }
             }
 
-            dfs(0,0);
+            if(isPass()) {
+                ans = 0;
+            } else {
+                injection(0, 0);
+            }
 
-            System.out.println("#"+tc+" "+min);
+            System.out.println("#" + t + " " + ans);
         }
-
     }
 
-    private static void dfs(int k, int cnt) {
-        if (cnt >= min) //
-            return;
+    private static void injection(int cnt, int layer) {
+        if(cnt >= ans) return;
 
-        if (k == d) {
-            loop: for (int i = 0; i < w; i++) {
-                int same = 1;
-                for (int j = 0; j < d - 1; j++) {
-                    if (map[j][i] == map[j + 1][i]) {
-                        same++;
-                    } else {
-                        same = 1;
-                    }
-
-                    if (same >= k) {
-                        continue loop;// same == K를 한번이라도 발견하면 다음 열 검사
-                    }
-                }
-                return;// 다 돌았는데 same == K 였던 적이 없는 열이 있다면 불합격
+        if(layer == D) {
+            if(isPass()) {
+                ans = ans > cnt ? cnt : ans;
             }
-            min = Math.min(min, cnt);
+
             return;
         }
 
-        int[] tmp = map[k].clone();
+        // 주입하지 않음
+        injection(cnt, layer + 1);
 
-        // 투입 안하기
-        dfs(k + 1, cnt);
+        // A 주입
+        for(int c = 0 ; c < W ; ++c)
+            Arrays.fill(temp[layer],0);
+        injection(cnt + 1, layer + 1);
 
-        // A 약품 투입
-        Arrays.fill(map[k], 0);
-        dfs(k + 1, cnt + 1);
+        // B 주입
+        for(int c = 0 ; c < W ; ++c)
+            Arrays.fill(temp[layer],1);
+        injection(cnt + 1, layer + 1);
 
-        // B 약품 투입
-        Arrays.fill(map[k], 1);
-        dfs(k + 1, cnt + 1);
+        // 되돌리기
+        for(int c = 0 ; c < W ; ++c)
+            temp[layer][c] = map[layer][c];
+    }
 
-        map[k] = tmp;
+    private static boolean isPass() {
+        for(int c = 0 ; c < W ; ++c) {
+            int cnt = 1;
+            int type = temp[0][c];
+            boolean flag = false;
+
+            for(int r = 1 ; r < D ; ++r) {
+                if(type == temp[r][c]) {
+                    cnt++;
+                } else {
+                    type = temp[r][c];
+                    cnt = 1;
+                }
+
+                if(cnt == K) {
+                    flag = true;
+                    break;
+                }
+            }
+
+            if(!flag) return false;
+        }
+
+        return true;
     }
 }
