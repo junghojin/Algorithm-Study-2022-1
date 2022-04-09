@@ -20,7 +20,7 @@ We are proceeding Algorithm Study from January, 2022.
 
 ### ▶ 4월 16일 토요일 스터디3 - 이진탐색
 > **We are welcoming the new member, Jiho 🎈** <br>
-> 
+> **이진트리 강의**: https://www.youtube.com/watch?v=Bhprzw_1kb0&list=PLsMufJgu5933ZkBCHS7bQTx0bncjwi4PK&index=26
 > '암벽 등반'과 '합이 0인 네 정수 문제' 중 편하신 한 문제 선택해서 풀어주세요~
 
 |      문제      | 레벨 |                           URL                            | 세환 | 재철 | 호진 | 지은 | 지호 | 설명 |  
