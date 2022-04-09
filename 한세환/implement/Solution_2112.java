@@ -60,13 +60,11 @@ public class Solution_2112 {
         injection(cnt, layer + 1);
 
         // A 주입
-        for(int c = 0 ; c < W ; ++c)
-            Arrays.fill(temp[layer],0);
+        Arrays.fill(temp[layer],0);
         injection(cnt + 1, layer + 1);
 
         // B 주입
-        for(int c = 0 ; c < W ; ++c)
-            Arrays.fill(temp[layer],1);
+       Arrays.fill(temp[layer],1);
         injection(cnt + 1, layer + 1);
 
         // 되돌리기
