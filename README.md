@@ -19,17 +19,13 @@ We are proceeding Algorithm Study from January, 2022.
 
 -----
 
-### 4월 2일 토요일 스터디1 - 그리디
-
-> **참고**: 참고 사이트 <br>
-> **풀이**: 스터디원이 직접 작성한 설명 <br>
-> **Collection.sort()에서 사용하는 팀정렬 강의**: https://www.youtube.com/watch?v=HHN1axRRKx8&t=1637s
-
-|      문제      | 레벨 |                           URL                            | 세환 | 재철 | 호진 | 지은 | 설명 |  
-| :------------: | :--: | :------------------------------------------------------: |:--:|:--:|:--:|:--:|:--:|   
-|  최소회의실 개수   |  Gold 5   | [문제](https://www.acmicpc.net/problem/19598) |[-]()|[-]()|[Code](https://github.com/junghojin/AlgorithmStudy2022/blob/e7cb81aa1541301337fd3fc7412f47a40c226f61/%EC%A0%95%ED%98%B8%EC%A7%84/02_Greedy/Main_19598_Greedy.java)|[Code](https://github.com/junghojin/AlgorithmStudy2022/blob/e7cb81aa1541301337fd3fc7412f47a40c226f61/%EC%9D%B4%EC%A7%80%EC%9D%80/22%EB%85%844%EC%9B%941%EC%A3%BC_Greedy/greedy_BOJ_19598_LJE2.java)|[참고](https://hillier.tistory.com/115)|   
-|  행복 유치원   |  Gold 5   | [문제](https://www.acmicpc.net/problem/13164) |[-]()|[-]()|[Code](https://github.com/junghojin/AlgorithmStudy2022/blob/82e35c27f92fa9e0053b4d4f7632455ee65b9b59/%EC%A0%95%ED%98%B8%EC%A7%84/02_Greedy/Main_13164_Greedy.java)|[-]()|[풀이](https://github.com/junghojin/AlgorithmStudy2022/blob/70a306673f8258b265abd3b6c4d9067000e50c61/%EC%A0%95%ED%98%B8%EC%A7%84/02_Greedy/Main_13164_Greedy.md)| 
-|  택배   |  Gold 3   | [문제](https://www.acmicpc.net/problem/8980) |[-]()|[-]()|[-]()|[-]()|[-]()|
+### 4월 16일 토요일 스터디3 - 이진탐색
+|      문제      | 레벨 |                           URL                            | 세환 | 재철 | 호진 | 지은 | 지호 | 설명 |  
+| :------------: | :--: | :------------------------------------------------------: |:--:|:--:|:--:|:--:| :--:|:--:|   
+|  색종이와 가위   |  Gold 5    | [문제](https://www.acmicpc.net/problem/20444) |[-]()|[-]()|[-]()|[-]()|[-]()| [-]()|    
+|  휴게소 세우기   |  Gold 4   | [문제](https://www.acmicpc.net/problem/1477) |[-]()|[-]()|[-]()|[-]()|[-]()| [-]()|    
+|  암벽 등반   |  Gold 3   | [문제](https://www.acmicpc.net/problem/2412)||[-]()|[-]()|[-]()|[-]()|[-]()| [-]()|  
+|  합이 0인 네 정수(선택)   |  Gold 2   | [문제](https://www.acmicpc.net/problem/7453)||[-]()|[-]()|[-]()|[-]()|[-]()| [-]()|    
 
 ------
 ### 4월 9일 토요일 스터디2 - 구현 & 그리디
@@ -40,11 +36,16 @@ We are proceeding Algorithm Study from January, 2022.
 |  카드정렬하기(그리디)   |  Gold 4   | [문제](https://www.acmicpc.net/problem/1715)|[-]()|[Code](https://github.com/junghojin/AlgorithmStudy2022/blob/0923c8aa3f5b59c6125fd9eafd721f0705d149ce/%EC%A0%95%EC%9E%AC%EC%B2%A0/greedy/BOJ_1715.java)|[Code](https://github.com/junghojin/AlgorithmStudy2022/blob/d62564d447c92b26eb4a0285236e91fff576912a/%EC%A0%95%ED%98%B8%EC%A7%84/02_Greedy/Greedy_boj_1715.java)|[-]()|[-]()|[-]()|   
 
 ------
-### 4월 16일 토요일 스터디3 - 이진탐색
-|      문제      | 레벨 |                           URL                            | 세환 | 재철 | 호진 | 지은 | 지호 | 설명 |  
-| :------------: | :--: | :------------------------------------------------------: |:--:|:--:|:--:|:--:| :--:|:--:|   
-|  색종이와 가위   |  Gold 5    | [문제](https://www.acmicpc.net/problem/20444) |[-]()|[-]()|[-]()|[-]()|[-]()| [-]()|    
-|  휴게소 세우기   |  Gold 4   | [문제](https://www.acmicpc.net/problem/1477) |[-]()|[-]()|[-]()|[-]()|[-]()| [-]()|    
-|  암벽 등반   |  Gold 3   | [문제](https://www.acmicpc.net/problem/2412)||[-]()|[-]()|[-]()|[-]()|[-]()| [-]()|  
-|  합이 0인 네 정수(선택)   |  Gold 2   | [문제](https://www.acmicpc.net/problem/7453)||[-]()|[-]()|[-]()|[-]()|[-]()| [-]()|    
+### 4월 2일 토요일 스터디1 - 그리디
+> **참고**: 참고 사이트 <br>
+> **풀이**: 스터디원이 직접 작성한 설명 <br>
+> **Collection.sort()에서 사용하는 팀정렬 강의**: https://www.youtube.com/watch?v=HHN1axRRKx8&t=1637s
+
+|      문제      | 레벨 |                           URL                            | 세환 | 재철 | 호진 | 지은 | 설명 |  
+| :------------: | :--: | :------------------------------------------------------: |:--:|:--:|:--:|:--:|:--:|   
+|  최소회의실 개수   |  Gold 5   | [문제](https://www.acmicpc.net/problem/19598) |[-]()|[-]()|[Code](https://github.com/junghojin/AlgorithmStudy2022/blob/e7cb81aa1541301337fd3fc7412f47a40c226f61/%EC%A0%95%ED%98%B8%EC%A7%84/02_Greedy/Main_19598_Greedy.java)|[Code](https://github.com/junghojin/AlgorithmStudy2022/blob/e7cb81aa1541301337fd3fc7412f47a40c226f61/%EC%9D%B4%EC%A7%80%EC%9D%80/22%EB%85%844%EC%9B%941%EC%A3%BC_Greedy/greedy_BOJ_19598_LJE2.java)|[참고](https://hillier.tistory.com/115)|   
+|  행복 유치원   |  Gold 5   | [문제](https://www.acmicpc.net/problem/13164) |[-]()|[-]()|[Code](https://github.com/junghojin/AlgorithmStudy2022/blob/82e35c27f92fa9e0053b4d4f7632455ee65b9b59/%EC%A0%95%ED%98%B8%EC%A7%84/02_Greedy/Main_13164_Greedy.java)|[-]()|[풀이](https://github.com/junghojin/AlgorithmStudy2022/blob/70a306673f8258b265abd3b6c4d9067000e50c61/%EC%A0%95%ED%98%B8%EC%A7%84/02_Greedy/Main_13164_Greedy.md)| 
+|  택배   |  Gold 3   | [문제](https://www.acmicpc.net/problem/8980) |[-]()|[-]()|[-]()|[-]()|[-]()|
+
+
 
