@@ -32,7 +32,7 @@ We are proceeding Algorithm Study from January, 2022.
 |  암벽 등반 (선택)  |  Gold 3   | [문제](https://www.acmicpc.net/problem/2412)|[-]()|[-]()|[-]()|[-]()|[-]()| [-]()| 
 |  합이 0인 네 정수 (선택)   |  Gold 2   | [문제](https://www.acmicpc.net/problem/7453)|[-]()|[-]()|[-]()|[-]()|[-]()| [-]()|   
 
-🍑**위 문제가 어렵다면 아래 문제도 같이 풀어보세요!** <br>
+🍑 **위 문제가 어렵다면 아래 문제도 같이 풀어보세요!** <br>
 
 [**두 용액**](https://www.acmicpc.net/problem/2470) <br>
 
