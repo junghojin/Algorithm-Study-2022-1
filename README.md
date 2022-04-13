@@ -27,10 +27,16 @@ We are proceeding Algorithm Study from January, 2022.
 
 |      문제      | 레벨 |                           URL                            | 세환 | 재철 | 호진 | 지은 | 지호 | 설명 |  
 | :------------: | :--: | :------------------------------------------------------: |:--:|:--:|:--:|:--:| :--:|:--:|   
-|  색종이와 가위   |  Gold 5    | [문제](https://www.acmicpc.net/problem/20444) |[-]()|[-]()|[-]()|[-]()|[-]()| [-]()|    
-|  휴게소 세우기   |  Gold 4   | [문제](https://www.acmicpc.net/problem/1477) |[-]()|[-]()|[-]()|[-]()|[-]()| [-]()|     
+|  색종이와 가위   |  Gold 5    | [문제](https://www.acmicpc.net/problem/20444) |[-]()|[Code](https://github.com/junghojin/AlgorithmStudy2022/blob/main/%EC%A0%95%EC%9E%AC%EC%B2%A0/BinarySearch/BOJ_20444.java)|[Code](https://github.com/junghojin/AlgorithmStudy2022/blob/17d8dc82104bbca3d1c9acf27366ca4d4d0a2bcf/%EC%A0%95%ED%98%B8%EC%A7%84/05_BinarySearch/BS_boj_20444.java)|[-]()|[-]()| [지은발표]()|    
+|  휴게소 세우기   |  Gold 4   | [문제](https://www.acmicpc.net/problem/1477) |[-]()|[-]()|[Code](https://github.com/junghojin/AlgorithmStudy2022/blob/c09ec2e4b1176ee4906fa33d8682ad9d62c1fc03/%EC%A0%95%ED%98%B8%EC%A7%84/05_BinarySearch/BS_boj_2412.java)|[-]()|[-]()| [호진발표]()|     
 |  암벽 등반 (선택)  |  Gold 3   | [문제](https://www.acmicpc.net/problem/2412)|[-]()|[-]()|[-]()|[-]()|[-]()| [-]()| 
 |  합이 0인 네 정수 (선택)   |  Gold 2   | [문제](https://www.acmicpc.net/problem/7453)|[-]()|[-]()|[-]()|[-]()|[-]()| [-]()|   
+
+📢 **위 문제가 어렵다면 아래 문제도 같이 풀어보세요!** <br>
+
+🍑 [**두 용액**](https://www.acmicpc.net/problem/2470) <br>
+
+🍑🍑 [**세 용액**](https://www.acmicpc.net/problem/2473)
 
 ------
 ### ✅ 4월 9일 토요일 스터디2 - 구현 & 그리디 
