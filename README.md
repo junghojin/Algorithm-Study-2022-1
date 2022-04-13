@@ -34,6 +34,7 @@ We are proceeding Algorithm Study from January, 2022.
 
 ** 위 문제가 어렵다면 아래 문제도 같이 풀어보세요! <br>
 [**두 용액**](https://www.acmicpc.net/problem/2470) <br>
+
 [**세 용액**](https://www.acmicpc.net/problem/2473)
 
 ------
