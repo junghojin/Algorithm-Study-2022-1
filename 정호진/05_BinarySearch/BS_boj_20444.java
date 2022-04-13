@@ -46,4 +46,4 @@ public class BS_boj_20444 {
 
 		return cnt;
 	}
-}
+} 
