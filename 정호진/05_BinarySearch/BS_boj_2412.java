@@ -53,7 +53,7 @@ public class BS_boj_2412 {
 			cnt += (stations.get(i) - stations.get(i - 1) - 1) / mid;
 		}
 
-		//
+		
 		if (cnt > M)
 			return true;
 		return false;
