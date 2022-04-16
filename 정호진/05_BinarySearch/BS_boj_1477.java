@@ -32,7 +32,7 @@ public class BS_boj_1477 {
 			// M의 크기를 키워서 시도해본다.
 			if (isAvailable(mid)) {
 				start = mid + 1;
-			} else {
+			} else { 
 				// 만약 mid의 간격으로 휴게소를 세웠는데, M 개와 같거나 M개보다 작게 세울 수 있었다면
 				// end 값을 줄여 mid 값을 줄여본다.
 				end = mid - 1;
