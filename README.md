@@ -16,9 +16,21 @@ We are proceeding Algorithm Study from January, 2022.
 - **Reference: https://github.com/tony9402/baekjoon**
 </br>
 
+### ▶ 4월 23일 토요일 스터디4 - 이진탐색 & 투 포인터
+> **이진 탐색 강의**: https://youtu.be/Bhprzw_1kb0 <br>
+> 
+> '암벽 등반'과 '합이 0인 네 정수 문제' 중 편하신 한 문제 선택해서 풀어주세요~
+
+|      문제      | 레벨 |                           URL                            | 세환 | 재철 | 호진 | 지은 | 지호 | 설명 |  
+| :------------: | :--: | :------------------------------------------------------: |:--:|:--:|:--:|:--:| :--:|:--:|   
+| 용액  |  Gold 5    | [문제](https://www.acmicpc.net/problem/2467) |[-]()|[-]()|[-]()|[-]()|[-]()| [-]()|     
+|  두 용액   |  Gold 5   | [문제](https://www.acmicpc.net/problem/2470) |[-]()|[-]()|[-]()|[-]()|[-]()| [-]()|     
+|  세 용액 (선택)  |  Gold 4   | [문제](https://www.acmicpc.net/problem/2473)|[-]()|[-]()|[-]()|[-]()|[-]()| [-]()| 
+| 부분합 (선택)   |  Gold 4   | [문제](https://www.acmicpc.net/problem/1806)|[-]()|[-]()|[-]()|[-]()|[-]()| [-]()|   
+
 -----
 
-### ▶ 4월 16일 토요일 스터디3 - 이진탐색
+### ✅  4월 16일 토요일 스터디3 - 이진탐색
 > **We are welcoming the new member, Jiho 🎈** <br>
 > 
 > **이진 탐색 강의**: https://youtu.be/Bhprzw_1kb0 <br>
@@ -31,12 +43,6 @@ We are proceeding Algorithm Study from January, 2022.
 |  휴게소 세우기   |  Gold 4   | [문제](https://www.acmicpc.net/problem/1477) |[-]()|[Code](https://github.com/junghojin/AlgorithmStudy2022/blob/29d7998b1f562055069ef896db69b274594ebd15/%EC%A0%95%EC%9E%AC%EC%B2%A0/BinarySearch/BOJ_1477.java)|[Code](https://github.com/junghojin/AlgorithmStudy2022/blob/dc6bb8454325022d3b625be0619b4deb1dc7ba69/%EC%A0%95%ED%98%B8%EC%A7%84/05_BinarySearch/BS_boj_1477.java)|[Code](https://github.com/junghojin/AlgorithmStudy2022/blob/a4ad9671b9a21ee473ab7926af0b0be4be867b85/%EC%9D%B4%EC%A7%80%EC%9D%80/22%EB%85%844%EC%9B%943%EC%A3%BC/BinarySearch_BOJ_1477_LJE.java)|[-]()| [호진발표]()|     
 |  암벽 등반 (선택)  |  Gold 3   | [문제](https://www.acmicpc.net/problem/2412)|[-]()|[-]()|[-]()|[-]()|[-]()| [지호발표]()| 
 |  합이 0인 네 정수 (선택)   |  Gold 2   | [문제](https://www.acmicpc.net/problem/7453)|[-]()|[-]()|[-]()|[-]()|[-]()| [재철발표]()|   
-
-📢 **위 문제가 어렵다면 아래 문제도 같이 풀어보세요!** <br>
-
-🍑 [**두 용액**](https://www.acmicpc.net/problem/2470) <br>
-
-🍑🍑 [**세 용액**](https://www.acmicpc.net/problem/2473)
 
 ------
 ### ✅ 4월 9일 토요일 스터디2 - 구현 & 그리디 
