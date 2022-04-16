@@ -54,7 +54,7 @@ We are proceeding Algorithm Study from January, 2022.
 
 ------
 <details>
-<summary> ### ✅ 4월 2일 토요일 스터디1 - 그리디 </summary>
+  <summary> <h3> ✅ 4월 2일 토요일 스터디1 - 그리디 </h3> </summary>
 <div markdown="1">
 
 > **참고**: 참고 사이트 <br>
