@@ -53,9 +53,8 @@ We are proceeding Algorithm Study from January, 2022.
 |  카드정렬하기(그리디)   |  Gold 4   | [문제](https://www.acmicpc.net/problem/1715)|[-]()|[Code](https://github.com/junghojin/AlgorithmStudy2022/blob/0923c8aa3f5b59c6125fd9eafd721f0705d149ce/%EC%A0%95%EC%9E%AC%EC%B2%A0/greedy/BOJ_1715.java)|[Code](https://github.com/junghojin/AlgorithmStudy2022/blob/d62564d447c92b26eb4a0285236e91fff576912a/%EC%A0%95%ED%98%B8%EC%A7%84/02_Greedy/Greedy_boj_1715.java)|[Code](https://github.com/junghojin/AlgorithmStudy2022/blob/249f94105cf5778abf078894ad15908b2b41c73f/%EC%9D%B4%EC%A7%80%EC%9D%80/22%EB%85%844%EC%9B%942%EC%A3%BC/greedy_BOJ_1715_LJE.java)|[-]()| 
 
 ------
-<details>
+<details markdown = "1">
   <summary> <h3> ✅ 4월 2일 토요일 스터디1 - 그리디 </h3> </summary>
-<div markdown="1">
 
 > **참고**: 참고 사이트 <br>
 > **풀이**: 스터디원이 직접 작성한 설명 <br>
@@ -67,6 +66,6 @@ We are proceeding Algorithm Study from January, 2022.
 |  행복 유치원   |  Gold 5   | [문제](https://www.acmicpc.net/problem/13164) |[-]()|[-]()|[Code](https://github.com/junghojin/AlgorithmStudy2022/blob/82e35c27f92fa9e0053b4d4f7632455ee65b9b59/%EC%A0%95%ED%98%B8%EC%A7%84/02_Greedy/Main_13164_Greedy.java)|[-]()|[풀이](https://github.com/junghojin/AlgorithmStudy2022/blob/70a306673f8258b265abd3b6c4d9067000e50c61/%EC%A0%95%ED%98%B8%EC%A7%84/02_Greedy/Main_13164_Greedy.md)| 
 |  택배   |  Gold 3   | [문제](https://www.acmicpc.net/problem/8980) |[-]()|[-]()|[-]()|[-]()|[-]()|
 
-</div>
+
 </details>
 
