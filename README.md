@@ -31,6 +31,7 @@ We are proceeding Algorithm Study from January, 2022.
 -----
 <details markdown = "1">
   <summary> <h3> ✅  4월 16일 토요일 스터디3 - 이진탐색 </h3> </summary>
+  
 > <strong> We are welcoming the new member, Jiho 🎈 </strong> <br>
 > 
 > **이진 탐색 강의**: https://youtu.be/Bhprzw_1kb0 <br>
