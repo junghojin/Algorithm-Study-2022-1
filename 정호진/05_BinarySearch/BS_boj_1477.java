@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Scanner;
 
-public class BS_boj_2412 {
+public class BS_boj_1477 {
 
 	static ArrayList<Integer> stations;
 	static int N, M, L;
