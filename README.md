@@ -17,7 +17,25 @@ We are proceeding Algorithm Study from January, 2022.
 - **Reference: https://github.com/tony9402/baekjoon**
 </br>
 
-### ▶ 4월 23일 토요일 스터디4 - 이진탐색 & 투 포인터 
+### ▶ 5월 7일 토요일 스터디6 - 동적 계획법
+> 
+> 
+
+|      문제      | 레벨 |                           URL                            | 세환 | 재철 | 호진 | 지은 | 지호 | 설명 |  
+| :------------: | :--: | :------------------------------------------------------: |:--:|:--:|:--:|:--:| :--:|:--:|   
+| 평범한 배낭  |  Gold 5    | [문제](https://www.acmicpc.net/problem/12865) |[-]()|[-]()|[-]()|[-]()|[-]()| [-]()|  
+|  진우의 달 여행   |  Gold 5   | [문제](https://www.acmicpc.net/problem/17485) |[-]()|[-]()|[-]()|[-]()|[-]()| [-]()|      
+| ACM Craft (선택)   |  Gold 4   | [문제](https://www.acmicpc.net/problem/1005)|[-]()|[-]()|[-]()|[-]()|[-]()| [-]()|   
+
+-----
+
+### ▶ 4월 30일 토요일 스터디5 - 점검 시간 및 복습 시간
+> **📢 한 달 동안 자신이 풀지 못했던 문제를 다시 한 번 풀어봅시다! ** 
+
+-----
+
+<details markdown = "1">
+  <summary> <h3> ✅  4월 23일 토요일 스터디4 - 이진 탐색 & 투 포인터 </h3> </summary>
 > **이진 탐색 강의**: https://youtu.be/Bhprzw_1kb0 <br>
 > 
 
@@ -25,7 +43,9 @@ We are proceeding Algorithm Study from January, 2022.
 | :------------: | :--: | :------------------------------------------------------: |:--:|:--:|:--:|:--:| :--:|:--:|   
 | 용액  |  Gold 5    | [문제](https://www.acmicpc.net/problem/2467) |[Code](https://github.com/junghojin/AlgorithmStudy2022/blob/main/%ED%95%9C%EC%84%B8%ED%99%98/binarySearch/Main_2467_twoPointer.java)|[Code](https://github.com/junghojin/AlgorithmStudy2022/blob/fa09907aa0bd984c0fbb9331286db7ed973bb270/%EC%A0%95%EC%9E%AC%EC%B2%A0/TwoPointers/BOJ_2467.java)|[Code](https://github.com/junghojin/AlgorithmStudy2022/blob/76c8627c87a065f99cfa92e579783bd48a194e50/%EC%A0%95%ED%98%B8%EC%A7%84/05_BinarySearch/BS_boj_2467.java)|[Code](https://github.com/junghojin/AlgorithmStudy2022/blob/main/%EC%9D%B4%EC%A7%80%EC%9D%80/22%EB%85%844%EC%9B%944%EC%A3%BC/BinarySearch_BOJ_2467_LJE.java)|[Code](https://github.com/junghojin/AlgorithmStudy2022/blob/6285e338152494022c36449cefe8f11cc75abce0/%EA%B9%80%EC%A7%80%ED%98%B8/BinarySearch/BOJ_2467_%EC%9A%A9%EC%95%A1.java)| [-]()|     
 |  세 용액   |  Gold 4   | [문제](https://www.acmicpc.net/problem/2473) |[-]()|[Code](https://github.com/junghojin/AlgorithmStudy2022/blob/main/%EC%A0%95%EC%9E%AC%EC%B2%A0/TwoPointers/BOJ_2473.java)|[Code](https://github.com/junghojin/AlgorithmStudy2022/blob/main/%EC%A0%95%ED%98%B8%EC%A7%84/05_BinarySearch/BS_boj_2473.java)|[Code](https://github.com/junghojin/AlgorithmStudy2022/blob/main/%EC%9D%B4%EC%A7%80%EC%9D%80/22%EB%85%844%EC%9B%944%EC%A3%BC/BinarySearch_BOJ_2473_LJE.java)|[Code](https://github.com/junghojin/AlgorithmStudy2022/blob/453a57af8c9862c4a8a42b54019af99ef28fdb7c/%EA%B9%80%EC%A7%80%ED%98%B8/BinarySearch/BOJ_2473_%EC%84%B8%EC%9A%A9%EC%95%A1.java)| [설명](https://github.com/junghojin/AlgorithmStudy2022/blob/main/%EC%9D%B4%EC%A7%80%EC%9D%80/22%EB%85%844%EC%9B%944%EC%A3%BC/%EB%B0%B1%EC%A4%802473_%EC%84%B8_%EC%9A%A9%EC%95%A1.pdf)|     
-| 부분합 (선택)   |  Gold 4   | [문제](https://www.acmicpc.net/problem/1806)|[-]()|[Code](https://github.com/junghojin/AlgorithmStudy2022/blob/main/%EC%A0%95%EC%9E%AC%EC%B2%A0/TwoPointers/BOJ_2473.java)|[-]()|[-]()|[Code](https://github.com/junghojin/AlgorithmStudy2022/blob/a97d2aa3efc52ec75a785c6f81ec2362793f0c84/%EA%B9%80%EC%A7%80%ED%98%B8/BinarySearch/BOJ_1806_%EB%B6%80%EB%B6%84%ED%95%A9.java)| [-]()|   
+| 부분합 (선택)   |  Gold 4   | [문제](https://www.acmicpc.net/problem/1806)|[-]()|[-]()|[-]()|[-]()|[Code](https://github.com/junghojin/AlgorithmStudy2022/blob/a97d2aa3efc52ec75a785c6f81ec2362793f0c84/%EA%B9%80%EC%A7%80%ED%98%B8/BinarySearch/BOJ_1806_%EB%B6%80%EB%B6%84%ED%95%A9.java)| [-]()|   
+
+</details>
 
 -----
 <details markdown = "1">
