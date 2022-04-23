@@ -18,7 +18,8 @@ We are proceeding Algorithm Study from January, 2022.
 </br>
 
 ### ▶ 5월 7일 토요일 스터디6 - 동적 계획법
-> 
+> <strong>이진 탐색 강의</strong>: https://www.youtube.com/watch?v=-G8kDiMAPf8 <br>
+> <br>
 
 |      문제      | 레벨 |                           URL                            | 세환 | 재철 | 호진 | 지은 | 지호 | 설명 |  
 | :------------: | :--: | :------------------------------------------------------: |:--:|:--:|:--:|:--:| :--:|:--:|   
@@ -36,8 +37,7 @@ We are proceeding Algorithm Study from January, 2022.
 <details markdown = "1">
   <summary> <h3> ✅  4월 23일 토요일 스터디4 - 이진 탐색 & 투 포인터 </h3> </summary>
 > <strong>이진 탐색 강의</strong>: https://youtu.be/Bhprzw_1kb0 <br>
-
-
+<br>
 |      문제      | 레벨 |                           URL                            | 세환 | 재철 | 호진 | 지은 | 지호 | 설명 |  
 | :------------: | :--: | :------------------------------------------------------: |:--:|:--:|:--:|:--:| :--:|:--:|   
 | 용액  |  Gold 5    | [문제](https://www.acmicpc.net/problem/2467) |[Code](https://github.com/junghojin/AlgorithmStudy2022/blob/main/%ED%95%9C%EC%84%B8%ED%99%98/binarySearch/Main_2467_twoPointer.java)|[Code](https://github.com/junghojin/AlgorithmStudy2022/blob/fa09907aa0bd984c0fbb9331286db7ed973bb270/%EC%A0%95%EC%9E%AC%EC%B2%A0/TwoPointers/BOJ_2467.java)|[Code](https://github.com/junghojin/AlgorithmStudy2022/blob/76c8627c87a065f99cfa92e579783bd48a194e50/%EC%A0%95%ED%98%B8%EC%A7%84/05_BinarySearch/BS_boj_2467.java)|[Code](https://github.com/junghojin/AlgorithmStudy2022/blob/main/%EC%9D%B4%EC%A7%80%EC%9D%80/22%EB%85%844%EC%9B%944%EC%A3%BC/BinarySearch_BOJ_2467_LJE.java)|[Code](https://github.com/junghojin/AlgorithmStudy2022/blob/6285e338152494022c36449cefe8f11cc75abce0/%EA%B9%80%EC%A7%80%ED%98%B8/BinarySearch/BOJ_2467_%EC%9A%A9%EC%95%A1.java)| [-]()|     
