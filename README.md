@@ -19,7 +19,6 @@ We are proceeding Algorithm Study from January, 2022.
 
 ### ▶ 5월 7일 토요일 스터디6 - 동적 계획법
 > 
-> 
 
 |      문제      | 레벨 |                           URL                            | 세환 | 재철 | 호진 | 지은 | 지호 | 설명 |  
 | :------------: | :--: | :------------------------------------------------------: |:--:|:--:|:--:|:--:| :--:|:--:|   
@@ -36,8 +35,8 @@ We are proceeding Algorithm Study from January, 2022.
 
 <details markdown = "1">
   <summary> <h3> ✅  4월 23일 토요일 스터디4 - 이진 탐색 & 투 포인터 </h3> </summary>
-> <strong>이진 탐색 강의<strong>: https://youtu.be/Bhprzw_1kb0 <br>
-> 
+> <strong>이진 탐색 강의</strong>: https://youtu.be/Bhprzw_1kb0 <br>
+
 
 |      문제      | 레벨 |                           URL                            | 세환 | 재철 | 호진 | 지은 | 지호 | 설명 |  
 | :------------: | :--: | :------------------------------------------------------: |:--:|:--:|:--:|:--:| :--:|:--:|   
