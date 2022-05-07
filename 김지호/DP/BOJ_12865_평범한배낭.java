@@ -34,13 +34,13 @@ public class BOJ_12865_평범한배낭 {
 		// 3번. 짐을 더 넣을 수 있는지를 확인해서 합한 값이 더 가치가 크다면 갱신해준다.
 		
 		for (int k = 1; k <= K; k++) { // 무게
-            for (int i = 1; i <= N; i++) { // item
-                dp[i][k] = dp[i - 1][k]; // 1번
-                if (k - arr[i][0] >= 0) { // 2번
-                    dp[i][k] = Math.max(dp[i - 1][k], arr[i][1] + dp[i - 1][k - arr[i][0]]); // 3번
-                }
-            }
-        }
+		    for (int i = 1; i <= N; i++) { // item
+			dp[i][k] = dp[i - 1][k]; // 1번
+			if (k - arr[i][0] >= 0) { // 2번
+			    dp[i][k] = Math.max(dp[i - 1][k], arr[i][1] + dp[i - 1][k - arr[i][0]]); // 3번
+			}
+		    }
+        	}
 		
 		// 물건들의 가치합의 최대값 출력
 		System.out.println(dp[N][K]);
