@@ -24,7 +24,8 @@ public class DP_boj_12865 {
             }
         });
 
-        // dp 2단계: dp 배열 채우기
+        // O(N x K)
+        // dp 2단계: dp 배열 채우기 
         for(int i = 1; i <= N; i++) {
             for(int j = 1; j <= K; j++) {
                 int weight = items[i][0];
