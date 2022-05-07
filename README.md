@@ -17,6 +17,15 @@ We are proceeding Algorithm Study from January, 2022.
 - **Reference: https://github.com/tony9402/baekjoon**
 </br>
 
+### ▶ 5월 14일 토요일 스터디7 - 최단 거리
+> <br>
+
+|      문제      | 레벨 |                           URL                            | 세환 | 재철 | 호진 | 지은 | 지호 | 설명 |  
+| :------------: | :--: | :------------------------------------------------------: |:--:|:--:|:--:|:--:| :--:|:--:|   
+| 플로이드  |  Gold 4    | [문제](https://www.acmicpc.net/problem/11404) |[-]()|[-]()|[-]()|[-]()|[-]()| [-]()| 
+|  웜홀   |  Gold 3   | [문제](https://www.acmicpc.net/problem/1865) |[-]()|[-]()|[-]()|[-]()|[-]()| [-]()| 
+| 택배 (선택) - 안 풀었다면 ☺️  |  Gold 3  | [문제](https://www.acmicpc.net/problem/8980)|[-]()|[-]()|[-]()|[-]()|[-]()| [-]()|   
+
 ### ▶ 5월 7일 토요일 스터디6 - 동적 계획법
 > <strong>강의</strong>: https://www.youtube.com/watch?v=-G8kDiMAPf8 <br>
 > <br>
