@@ -24,7 +24,7 @@ We are proceeding Algorithm Study from January, 2022.
 |      문제      | 레벨 |                           URL                            | 세환 | 재철 | 호진 | 지은 | 지호 | 설명 |  
 | :------------: | :--: | :------------------------------------------------------: |:--:|:--:|:--:|:--:| :--:|:--:|   
 | 평범한 배낭  |  Gold 5    | [문제](https://www.acmicpc.net/problem/12865) |[-]()|[-]()|[-]()|[-]()|[Code](https://github.com/junghojin/AlgorithmStudy2022/blob/88f503e11399d24dafd7eda12e960219136040cc/%EA%B9%80%EC%A7%80%ED%98%B8/DP/BOJ_12865_%ED%8F%89%EB%B2%94%ED%95%9C%EB%B0%B0%EB%82%AD.java)| [-]()|  
-|  진우의 달 여행   |  Gold 5   | [문제](https://www.acmicpc.net/problem/17485) |[-]()|[-]()|[-]()|[-]()|[-]()| [-]()|      
+|  진우의 달 여행   |  Gold 5   | [문제](https://www.acmicpc.net/problem/17485) |[Code](https://github.com/junghojin/AlgorithmStudy2022/blob/main/%ED%95%9C%EC%84%B8%ED%99%98/dp/Main_17485.java)|[-]()|[-]()|[-]()|[-]()| [-]()|      
 | ACM Craft (선택)   |  Gold 4   | [문제](https://www.acmicpc.net/problem/1005)|[-]()|[-]()|[-]()|[-]()|[-]()| [-]()|   
 
 -----
