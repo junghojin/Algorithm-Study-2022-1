@@ -30,7 +30,7 @@ public class DP_boj_12865 {
                 int weight = items[i][0];
                 int value = items[i][1];
 
-                // j의 무게가 물품의 무게보다 무거운 경우 물품을 담을 수 없다.
+                // 배낭의 무게(j)가 담을 수 있는 물품의 무게보다 적으 경우 물품을 담을 수 없다.
                 if(weight > j) {
                     dp[i][j] = dp[i-1][j];
                 } else { // 물품을 담을 수 있는 경우
