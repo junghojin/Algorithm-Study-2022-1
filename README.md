@@ -26,6 +26,8 @@ We are proceeding Algorithm Study from January, 2022.
 |  웜홀   |  Gold 3   | [문제](https://www.acmicpc.net/problem/1865) |[-]()|[-]()|[-]()|[-]()|[-]()| [-]()| 
 | 택배 (선택) - 안 풀었다면 ☺️  |  Gold 3  | [문제](https://www.acmicpc.net/problem/8980)|[-]()|[-]()|[-]()|[-]()|[-]()| [-]()|   
 
+-----
+
 ### ✅ 5월 7일 토요일 스터디6 - 동적 계획법
 > <strong>강의</strong>: https://www.youtube.com/watch?v=-G8kDiMAPf8 <br>
 > <br>
