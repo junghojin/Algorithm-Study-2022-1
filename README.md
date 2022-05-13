@@ -22,8 +22,8 @@ We are proceeding Algorithm Study from January, 2022.
 
 |      문제      | 레벨 |                           URL                            | 세환 | 재철 | 호진 | 지은 | 지호 | 설명 |  
 | :------------: | :--: | :------------------------------------------------------: |:--:|:--:|:--:|:--:| :--:|:--:|   
-| 플로이드  |  Gold 4    | [문제](https://www.acmicpc.net/problem/11404) |[-]()|[-]()|[-]()|[-]()|[-]()| [-]()| 
-|  웜홀   |  Gold 3   | [문제](https://www.acmicpc.net/problem/1865) |[-]()|[-]()|[-]()|[-]()|[-]()| [-]()| 
+| 플로이드  |  Gold 4    | [문제](https://www.acmicpc.net/problem/11404) |[-]()|[Code](https://github.com/junghojin/AlgorithmStudy2022/blob/main/%EC%A0%95%EC%9E%AC%EC%B2%A0/MST/BOJ_11404.java)|[-]()|[-]()|[-]()| [-]()| 
+|  웜홀   |  Gold 3   | [문제](https://www.acmicpc.net/problem/1865) |[-]()|[Code](https://github.com/junghojin/AlgorithmStudy2022/blob/main/%EC%A0%95%EC%9E%AC%EC%B2%A0/MST/BOJ_1865.java)|[-]()|[-]()|[-]()| [-]()| 
 | 택배 (선택) - 안 풀었다면 ☺️  |  Gold 3  | [문제](https://www.acmicpc.net/problem/8980)|[-]()|[-]()|[-]()|[-]()|[-]()| [-]()|   
 
 -----
