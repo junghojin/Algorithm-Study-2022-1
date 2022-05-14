@@ -16,8 +16,8 @@ We are proceeding Algorithm Study from January, 2022.
 - We decided to upgrade the level of questions from Gold 1 to Gold 5
 - **Reference: https://github.com/tony9402/baekjoon**
 </br>
+
 ### ▶ 5월 21일 토요일 스터디8 - 코딩테스트 기출 문제 2개 풀기 
-> <br>
 
 |      문제      | 레벨 |                           URL                            | 세환 | 재철 | 호진 | 지은 | 지호 | 설명 |  
 | :------------: | :--: | :------------------------------------------------------: |:--:|:--:|:--:|:--:| :--:|:--:|   
