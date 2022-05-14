@@ -34,6 +34,7 @@ We are proceeding Algorithm Study from January, 2022.
 |  웜홀   |  Gold 3   | [문제](https://www.acmicpc.net/problem/1865) |[-]()|[Code](https://github.com/junghojin/AlgorithmStudy2022/blob/main/%EC%A0%95%EC%9E%AC%EC%B2%A0/MST/BOJ_1865.java)|[-]()|[-]()|[Code](https://github.com/junghojin/AlgorithmStudy2022/blob/9a2ec0e3cf39dfcf6eb6bdc4e6c128648e365007/%EA%B9%80%EC%A7%80%ED%98%B8/Graph/BOJ_1865_%EC%9B%9C%ED%99%80.java)| [설명](https://github.com/junghojin/AlgorithmStudy2022/blob/9a2ec0e3cf39dfcf6eb6bdc4e6c128648e365007/%EA%B9%80%EC%A7%80%ED%98%B8/Graph/BOJ_1865_%EC%84%A4%EB%AA%85.pdf)| 
 
 </details>
+
 -----
 
 <details markdown = "1">
