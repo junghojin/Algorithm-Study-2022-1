@@ -16,19 +16,30 @@ We are proceeding Algorithm Study from January, 2022.
 - We decided to upgrade the level of questions from Gold 1 to Gold 5
 - **Reference: https://github.com/tony9402/baekjoon**
 </br>
+### ▶ 5월 21일 토요일 스터디8 - 코딩테스트 기출 문제 2개 풀기 
+> <br>
 
-### ▶ 5월 14일 토요일 스터디7 - 최단 거리
+|      문제      | 레벨 |                           URL                            | 세환 | 재철 | 호진 | 지은 | 지호 | 설명 |  
+| :------------: | :--: | :------------------------------------------------------: |:--:|:--:|:--:|:--:| :--:|:--:|   
+| k진수에서 소수 개수 구하기  |  Lv.2    | [문제](https://programmers.co.kr/learn/courses/30/lessons/92335) |[-]()|[-]()|[-]()|[-]()|[-]()| [-]()|
+| 신고 결과 받기  |  Lv.1   | [문제](https://programmers.co.kr/learn/courses/30/lessons/92334) |[-]()|[-]()|[-]()|[-]()|[-]()|[-]()| [-]()|   
+
+---
+<details markdown = "1">
+<summary> <h3> ✅ 5월 14일 토요일 스터디7 - 최단거리 </h3> </summary>
 > <br>
 
 |      문제      | 레벨 |                           URL                            | 세환 | 재철 | 호진 | 지은 | 지호 | 설명 |  
 | :------------: | :--: | :------------------------------------------------------: |:--:|:--:|:--:|:--:| :--:|:--:|   
 | 플로이드  |  Gold 4    | [문제](https://www.acmicpc.net/problem/11404) |[-]()|[Code](https://github.com/junghojin/AlgorithmStudy2022/blob/main/%EC%A0%95%EC%9E%AC%EC%B2%A0/MST/BOJ_11404.java)|[Code](https://github.com/junghojin/AlgorithmStudy2022/blob/17f3768f5c2fd2c73033bddc4e97d276199ce4c7/%EC%A0%95%ED%98%B8%EC%A7%84/09_Graph/boj_11404.java)|[Code](https://github.com/junghojin/AlgorithmStudy2022/blob/main/%EC%9D%B4%EC%A7%80%EC%9D%80/22%EB%85%845%EC%9B%942%EC%A3%BC/Main_11404.java)|[-]()| [설명](https://github.com/LeeJieuni/AlgorithmStudy2022/blob/main/%EC%9D%B4%EC%A7%80%EC%9D%80/22%EB%85%845%EC%9B%942%EC%A3%BC/%EB%B0%B1%EC%A4%8011404_%ED%94%8C%EB%A1%9C%EC%9D%B4%EB%93%9C_new.pdf)| 
 |  웜홀   |  Gold 3   | [문제](https://www.acmicpc.net/problem/1865) |[-]()|[Code](https://github.com/junghojin/AlgorithmStudy2022/blob/main/%EC%A0%95%EC%9E%AC%EC%B2%A0/MST/BOJ_1865.java)|[-]()|[-]()|[Code](https://github.com/junghojin/AlgorithmStudy2022/blob/9a2ec0e3cf39dfcf6eb6bdc4e6c128648e365007/%EA%B9%80%EC%A7%80%ED%98%B8/Graph/BOJ_1865_%EC%9B%9C%ED%99%80.java)| [설명](https://github.com/junghojin/AlgorithmStudy2022/blob/9a2ec0e3cf39dfcf6eb6bdc4e6c128648e365007/%EA%B9%80%EC%A7%80%ED%98%B8/Graph/BOJ_1865_%EC%84%A4%EB%AA%85.pdf)| 
-| 택배 (선택) - 안 풀었다면 ☺️  |  Gold 3  | [문제](https://www.acmicpc.net/problem/8980)|[-]()|[-]()|[-]()|[-]()|[-]()| [-]()|   
 
+</details>
 -----
 
-### ✅ 5월 7일 토요일 스터디6 - 동적 계획법
+<details markdown = "1">
+<summary> <h3> ✅ 5월 7일 토요일 스터디6 - 동적 계획법 </h3> </summary>
+### 
 > <strong>강의</strong>: https://www.youtube.com/watch?v=-G8kDiMAPf8 <br>
 > <br>
 
@@ -37,6 +48,8 @@ We are proceeding Algorithm Study from January, 2022.
 | 평범한 배낭  |  Gold 5    | [문제](https://www.acmicpc.net/problem/12865) |[-]()|[Code](https://github.com/junghojin/AlgorithmStudy2022/blob/main/%EC%A0%95%EC%9E%AC%EC%B2%A0/DP/BOJ_12865.java)|[Code](https://github.com/junghojin/AlgorithmStudy2022/blob/main/정호진/06_DP/DP_boj_12865.java)|[Code](https://github.com/junghojin/AlgorithmStudy2022/blob/main/%EC%9D%B4%EC%A7%80%EC%9D%80/22%EB%85%845%EC%9B%941%EC%A3%BC/DP_BOJ_12865_LJE.java)|[Code](https://github.com/junghojin/AlgorithmStudy2022/blob/88f503e11399d24dafd7eda12e960219136040cc/%EA%B9%80%EC%A7%80%ED%98%B8/DP/BOJ_12865_%ED%8F%89%EB%B2%94%ED%95%9C%EB%B0%B0%EB%82%AD.java)| [설명](https://github.com/junghojin/AlgorithmStudy2022/blob/f48418b84228853f894b504104298cfc33afffd8/%EC%A0%95%ED%98%B8%EC%A7%84/06_DP/DP_boj_12865_%E1%84%89%E1%85%A5%E1%86%AF%E1%84%86%E1%85%A7%E1%86%BC.pdf)|  
 |  진우의 달 여행   |  Gold 5   | [문제](https://www.acmicpc.net/problem/17485) |[Code](https://github.com/junghojin/AlgorithmStudy2022/blob/main/%ED%95%9C%EC%84%B8%ED%99%98/dp/Main_17485.java)|[Code](https://github.com/junghojin/AlgorithmStudy2022/blob/main/%EC%A0%95%EC%9E%AC%EC%B2%A0/DP/BOJ_17485.java)|[-]()|[-]()|[-]()| [-]()|      
 | ACM Craft (선택)   |  Gold 4   | [문제](https://www.acmicpc.net/problem/1005)|[-]()|[-]()|[-]()|[-]()|[-]()| [-]()|   
+
+</details>
 
 -----
 
