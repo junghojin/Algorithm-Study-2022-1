@@ -21,7 +21,7 @@ We are proceeding Algorithm Study from January, 2022.
 
 |      문제      | 레벨 |                           URL                            | 세환 | 재철 | 호진 | 지은 | 지호 | 설명 |  
 | :------------: | :--: | :------------------------------------------------------: |:--:|:--:|:--:|:--:| :--:|:--:|   
-| k진수에서 소수 개수 구하기  |  Lv.2    | [문제](https://programmers.co.kr/learn/courses/30/lessons/92335) |[-]()|[-]()|[-]()|[-]()|[-]()| [-]()|
+| k진수에서 소수 개수 구하기 |  Lv.2    | [문제](https://programmers.co.kr/learn/courses/30/lessons/92335) |[-]()|[-]()|[-]()|[-]()|[-]()| [-]()|
 | 신고 결과 받기  |  Lv.1   | [문제](https://programmers.co.kr/learn/courses/30/lessons/92334) |[-]()|[-]()|[-]()|[-]()|[-]()|[-]()| [-]()|   
 
 ---
