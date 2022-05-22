@@ -16,13 +16,22 @@ We are proceeding Algorithm Study from January, 2022.
 - We decided to upgrade the level of questions from Gold 1 to Gold 5
 - **Reference: https://github.com/tony9402/baekjoon**
 </br>
+### ▶ 5월 28일 토요일 스터디9 - 프로젝트 기간으로 풀 수 있는 문제만 풀고 있습니다.
 
-### ▶ 5월 21일 토요일 스터디8 - 프로젝트 기간으로 풀 수 있는 문제만 풀고 있습니다.
+|      문제      | 레벨 |                           URL                            | 세환 | 재철 | 호진 | 지은 | 지호 | 설명 |  
+| :------------: | :--: | :------------------------------------------------------: |:--:|:--:|:--:|:--:| :--:|:--:|   
+| 주차요금 계산하기 |  Lv.2    | [문제](https://programmers.co.kr/learn/courses/30/lessons/92341) |[-]()|[-]()|[-]()|[-]()|[-]()| [-]()|
+| 로또의 최고순위와 최저순위  |  Lv.1   | [문제](https://programmers.co.kr/learn/courses/30/lessons/77484) |[-]()|[-]()|[-]()|[-]()|[-]()|[-]()| [-]()|  
+
+<details markdown = "1">
+<summary> <h3> ✅ 5월 21일 토요일 스터디8 - 프로젝트 기간으로 풀 수 있는 문제만 풀고 있습니다. </h3> </summary>
 
 |      문제      | 레벨 |                           URL                            | 세환 | 재철 | 호진 | 지은 | 지호 | 설명 |  
 | :------------: | :--: | :------------------------------------------------------: |:--:|:--:|:--:|:--:| :--:|:--:|   
 | k진수에서 소수 개수 구하기 |  Lv.2    | [문제](https://programmers.co.kr/learn/courses/30/lessons/92335) |[-]()|[-]()|[-]()|[-]()|[-]()| [-]()|
 | 신고 결과 받기  |  Lv.1   | [문제](https://programmers.co.kr/learn/courses/30/lessons/92334) |[-]()|[-]()|[Code](https://github.com/junghojin/Algorithm-Study-2022/blob/4a64f9c2b8b0d9b1dc55de20bdab87e574ac2baa/%EC%A0%95%ED%98%B8%EC%A7%84/00_CodingTest/Kakao_2022B_lv1.java)|[-]()|[-]()|[-]()| [-]()|   
+
+</details>
 
 ---
 <details markdown = "1">
