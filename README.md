@@ -30,7 +30,7 @@ We are proceeding Algorithm Study from January, 2022.
 |      문제      | 레벨 |                           URL                            | 세환 | 재철 | 호진 | 지은 | 지호 | 설명 |  
 | :------------: | :--: | :------------------------------------------------------: |:--:|:--:|:--:|:--:| :--:|:--:|   
 | k진수에서 소수 개수 구하기 |  Lv.2    | [문제](https://programmers.co.kr/learn/courses/30/lessons/92335) |[-]()|[-]()|[-]()|[-]()|[-]()| [-]()|
-| 신고 결과 받기  |  Lv.1   | [문제](https://programmers.co.kr/learn/courses/30/lessons/92334) |[-]()|[-]()|[Code](https://github.com/junghojin/Algorithm-Study-2022/blob/4a64f9c2b8b0d9b1dc55de20bdab87e574ac2baa/%EC%A0%95%ED%98%B8%EC%A7%84/00_CodingTest/Kakao_2022B_lv1.java)|[-]()|[-]()|[Code](https://github.com/junghojin/Algorithm-Study-2022/blob/4092496351fc3ee47b1cad87c4c6374a7070fcb3/%EA%B9%80%EC%A7%80%ED%98%B8/programmers/reportUser.java)| [-]()|   
+| 신고 결과 받기  |  Lv.1   | [문제](https://programmers.co.kr/learn/courses/30/lessons/92334) |[-]()|[-]()|[Code](https://github.com/junghojin/Algorithm-Study-2022/blob/4a64f9c2b8b0d9b1dc55de20bdab87e574ac2baa/%EC%A0%95%ED%98%B8%EC%A7%84/00_CodingTest/Kakao_2022B_lv1.java)|[-]()|[Code](https://github.com/junghojin/Algorithm-Study-2022/blob/4092496351fc3ee47b1cad87c4c6374a7070fcb3/%EA%B9%80%EC%A7%80%ED%98%B8/programmers/reportUser.java)|[-]()| [-]()|   
 
 </details>
 
