@@ -31,7 +31,7 @@ We are proceeding Algorithm Study from January, 2022.
 
 |      문제      | 레벨 |                           URL                            | 세환 | 재철 | 호진 | 지은 | 지호 | 설명 |  
 | :------------: | :--: | :------------------------------------------------------:|:--:|:--:|:--:|:--:| :--:|:--:|   
-| 주차요금 계산하기 |  Lv.2    | [문제](https://programmers.co.kr/learn/courses/30/lessons/92341) |[-]()|[-]()|[-]()|[-]()|[-]()| [-]()|
+| 주차요금 계산하기 |  Lv.2    | [문제](https://programmers.co.kr/learn/courses/30/lessons/92341) |[-]()|[-]()|[-]()|[](https://github.com/junghojin/Algorithm-Study-2022/blob/main/%EC%9D%B4%EC%A7%80%EC%9D%80/22%EB%85%845%EC%9B%944%EC%A3%BC/%EC%A3%BC%EC%B0%A8%EC%9A%94%EA%B8%88%EA%B3%84%EC%82%B0.java)|[-]()| [-]()|
 | 로또의 최고순위와 최저순위  |  Lv.1   | [문제](https://programmers.co.kr/learn/courses/30/lessons/77484) |[-]()|[-]()|[Code](https://github.com/junghojin/Algorithm-Study-2022/blob/9dc07526e2d027a639ead5e59294eb56963fe83d/%EC%A0%95%ED%98%B8%EC%A7%84/00_CodingTest/DevMatching21_lv1.java)|[-]()|[Code](https://github.com/junghojin/Algorithm-Study-2022/blob/e9da486b571d4335de111d2707ce07889ef532cb/%EA%B9%80%EC%A7%80%ED%98%B8/programmers/lotto.java)|[-]()| [-]()|  
 
 </details>
