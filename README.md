@@ -25,6 +25,7 @@ We are proceeding Algorithm Study from January, 2022.
 | 크레인 인형뽑기 게임 |  Lv.1   | [문제](https://programmers.co.kr/learn/courses/30/lessons/64061) |[-]()|[-]()|[-]()|[-]()|[-]()| [-]()|
 | 키패드 누르기 |  Lv.1   | [문제](https://programmers.co.kr/learn/courses/30/lessons/67256) |[-]()|[-]()|[-]()|[-]()|[-]()| [-]()|
 
+---
 <details markdown = "1">
 <summary> <h3> ✅ 5월 28일 토요일 스터디9 - 프로젝트 기간 </h3> </summary>
 
@@ -35,6 +36,7 @@ We are proceeding Algorithm Study from January, 2022.
 
 </details>
 
+---
 <details markdown = "1">
 <summary> <h3> ✅ 5월 21일 토요일 스터디8 - 프로젝트 기간 </h3> </summary>
 
