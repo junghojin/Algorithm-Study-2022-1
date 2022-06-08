@@ -22,7 +22,7 @@ We are proceeding Algorithm Study from January, 2022.
 |      문제      | 레벨 |                           URL                            | 세환 | 재철 | 호진 | 지은 | 지호 | 설명 |  
 | :------------: | :--: | :------------------------------------------------------:|:--:|:--:|:--:|:--:| :--:|:--:|    
 | 양궁대회 |  Lv.2   | [문제](https://programmers.co.kr/learn/courses/30/lessons/92342) |[-]()|[-]()|[-]()|[-]()|[-]()| [-]()|
-| 크레인 인형뽑기 게임 |  Lv.1   | [문제](https://programmers.co.kr/learn/courses/30/lessons/64061) |[-]()|[-]()|[-]()|[-]()|[-]()| [-]()|
+| 크레인 인형뽑기 게임 |  Lv.1   | [문제](https://programmers.co.kr/learn/courses/30/lessons/64061) |[-]()|[-]()|[-]()|[Code](https://github.com/junghojin/Algorithm-Study-2022/blob/main/%EC%9D%B4%EC%A7%80%EC%9D%80/22%EB%85%846%EC%9B%942%EC%A3%BC/%ED%81%AC%EB%A0%88%EC%9D%B8%EC%9D%B8%ED%98%95%EB%BD%91%EA%B8%B0%EA%B2%8C%EC%9E%84.java)|[-]()| [-]()|
 | 키패드 누르기 |  Lv.1   | [문제](https://programmers.co.kr/learn/courses/30/lessons/67256) |[-]()|[-]()|[-]()|[-]()|[-]()| [-]()|
 
 ---
