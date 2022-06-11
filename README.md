@@ -21,9 +21,9 @@ We are proceeding Algorithm Study from January, 2022.
 
 |      문제      | 레벨 |                           URL                            | 세환 | 재철 | 호진 | 지은 | 지호 | 설명 |  
 | :------------: | :--: | :------------------------------------------------------: |:--:|:--:|:--:|:--:| :--:|:--:|   
-| 행렬 테두리 회전하기 |  Lv.2    | [문제](https://programmers.co.kr/learn/courses/30/lessons/77485) ||[-]()|[-]()|[-]()|[-]()|[-]()|[-]()|
-| 순위 검색 |  Lv.2    | [문제](https://programmers.co.kr/learn/courses/30/lessons/72412) ||[-]()|[-]()|[-]()|[-]()|[-]()|[-]()|
-| 실패율 |  Lv.1    | [문제](https://programmers.co.kr/learn/courses/30/lessons/42889) ||[-]()|[-]()|[-]()|[-]()|[-]()|[-]()|
+| 행렬 테두리 회전하기 |  Lv.2    | [문제](https://programmers.co.kr/learn/courses/30/lessons/77485) |[-]()|[-]()|[-]()|[-]()|[-]()|[-]()|
+| 순위 검색 |  Lv.2    | [문제](https://programmers.co.kr/learn/courses/30/lessons/72412) |[-]()|[-]()|[-]()|[-]()|[-]()|[-]()|
+| 실패율 |  Lv.1    | [문제](https://programmers.co.kr/learn/courses/30/lessons/42889) |[-]()|[-]()|[-]()|[-]()|[-]()|[-]()|
 
 
 ---
