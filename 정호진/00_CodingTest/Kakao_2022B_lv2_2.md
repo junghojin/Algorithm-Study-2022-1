@@ -103,6 +103,6 @@ public class Solution {
 
 ---
 
-> **문제 링크: [link](https://programmers.co.kr/learn/courses/30/lessons/92342)
+> 문제 링크: [link](https://programmers.co.kr/learn/courses/30/lessons/92342)
 
  
