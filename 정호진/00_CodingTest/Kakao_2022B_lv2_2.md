@@ -1,4 +1,4 @@
-#### **문제 요약**
+## **문제 요약**
 
 > **양궁대회에서 라이언이 우승할 수 있는 방법들 중 가장 낮은 점수를 더 많이 맞힌 경우를 찾아 return, 없다면 \[-1\] return**
 
@@ -14,6 +14,7 @@
         -   이 때, 라이언이 어피치를 이길 수 있는 경우는 존재하지 않는다.
             -   어피치가 9점에 2발을 쏘고 라이언이 남은 1발을 9점에 쏜다면, 라이언은 어피치와 동점이 된다.
             -   최종점수가 동점일 때는 어피치가 이긴 것으로 경기 규칙이 정해져 있으므로 라이언은 이길 수 없다.
+            -   
 
 ****\[입출력\]****
 
@@ -102,10 +103,6 @@ public class Solution {
 
 ---
 
-> **문제 링크: [https://programmers.co.kr/learn/courses/30/lessons/92342](https://programmers.co.kr/learn/courses/30/lessons/92342)**
+> **문제 링크: [link](https://programmers.co.kr/learn/courses/30/lessons/92342)
 
- [코딩테스트 연습 - 양궁대회
-
-문제 설명 카카오배 양궁대회가 열렸습니다. 라이언은 저번 카카오배 양궁대회 우승자이고 이번 대회에도 결승전까지 올라왔습니다. 결승전 상대는 어피치입니다. 카카오배 양궁대회 운영위원
-
-programmers.co.kr](https://programmers.co.kr/learn/courses/30/lessons/92342)
+ 
