@@ -75,8 +75,8 @@ public class Solution {
      */
     private static void dfs(int level, int n, int[] scores, int[] info) {
         if (level == n) {
-            int total_score = 0; // 라이언이 획득하 총 점수
-            int opposite_score = 0; // 어피치가 획득하 총 점수
+            int total_score = 0; // 라이언이 획득한 총 점수
+            int opposite_score = 0; // 어피치가 획득한 총 점수
 
             for (int i = 0; i <= 10; i++) {
                 if (scores[i] > 0 || info[i] > 0) {
@@ -85,7 +85,7 @@ public class Solution {
                 }
             }
 
-            // 라이언이 어피치보다 점수르 많이 획득했으 때 이길 수 있다.
+            // 라이언이 어피치보다 점수르 많이 획득했을 때 이길 수 있다.
             // 라이언이 어피치를 이기는 경우 중 점수 차이가 크게 나는 경우를 찾는다.
             // 라이언이 어피치를 이기는 경우 중 점수 차이가 동점일 경우, 더 낮은 점수를 많이 맞히는 경우를 찾는다.
             if (total_score > opposite_score && total_score - opposite_score >= max_score) {
