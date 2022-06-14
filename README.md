@@ -16,7 +16,7 @@ We are proceeding Algorithm Study from January, 2022.
 - We decided to upgrade the level of questions from Gold 1 to Gold 5
 - **Reference: https://github.com/tony9402/baekjoon**
 </br>
-
+ 
 <h3> ▶ 6월 18일 토요일 스터디11 - </h3>
 
 |      문제      | 레벨 |                           URL                            | 세환 | 재철 | 호진 | 지은 | 지호 | 발표 |  
