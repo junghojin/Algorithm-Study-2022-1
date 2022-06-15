@@ -23,7 +23,7 @@ public class Kakao_2019Winter_lv1 {
                     board[d][idx] = 0;
                     break;
                 }
-            }
+            } 
             if (item != 0) {
                 if (!box.isEmpty() && box.peek() == item) {
                     box.pop();
