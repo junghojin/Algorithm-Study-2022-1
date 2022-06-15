@@ -23,7 +23,7 @@ We are proceeding Algorithm Study from January, 2022.
 | :------------: | :--: | :------------------------------------------------------: |:--:|:--:|:--:|:--:| :--:|:--:|   
 | 행렬 테두리 회전하기 |  Lv.2    | [문제](https://programmers.co.kr/learn/courses/30/lessons/77485) |[-]()|[-]()|[-]()|[-]()|[-]()|재철|
 | 순위 검색 |  Lv.2    | [문제](https://programmers.co.kr/learn/courses/30/lessons/72412) |[-]()|[-]()|[-]()|[-]()|[-]()|지호|
-| 실패율 |  Lv.1    | [문제](https://programmers.co.kr/learn/courses/30/lessons/42889) |[-]()|[-]()|[-]()|[-]()|[-]()|세환|
+| 실패율 |  Lv.1    | [문제](https://programmers.co.kr/learn/courses/30/lessons/42889) |[-]()|[-]()|[Code](https://github.com/junghojin/Algorithm-Study-2022/blob/d006f84dbdabfc01b0f5044a6eb0d886a95da6bb/%EC%A0%95%ED%98%B8%EC%A7%84/00_CodingTest/Kakao_2019B_lv1.java)|[-]()|[-]()|세환|
 
 
 ---
