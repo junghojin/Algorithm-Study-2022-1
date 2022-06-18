@@ -21,8 +21,8 @@ We are proceeding Algorithm Study from January, 2022.
 
 |      문제      | 레벨 |                           URL                            | 세환 | 재철 | 호진 | 지은 | 지호 | 발표 |  
 | :------------: | :--: | :------------------------------------------------------: |:--:|:--:|:--:|:--:| :--:|:--:|   
-| 행렬 테두리 회전하기 |  Lv.2    | [문제](https://programmers.co.kr/learn/courses/30/lessons/77485) |[-]()|[-]()|[-]()|[-]()|[-]()|재철|
-| 순위 검색 |  Lv.2    | [문제](https://programmers.co.kr/learn/courses/30/lessons/72412) |[-]()|[-]()|[-]()|[-]()|[-]()|지호|
+| 행렬 테두리 회전하기 |  Lv.2    | [문제](https://programmers.co.kr/learn/courses/30/lessons/77485) |[-]()|[-]()|[-]()|[-]()|[Code](https://github.com/junghojin/Algorithm-Study-2022/blob/bf7ae15a736171a5472297a80d93899a27c6d2ad/%EA%B9%80%EC%A7%80%ED%98%B8/programmers/programmers_77485.java)|재철|
+| 순위 검색 |  Lv.2    | [문제](https://programmers.co.kr/learn/courses/30/lessons/72412) |[-]()|[-]()|[-]()|[-]()|[Code](https://github.com/junghojin/Algorithm-Study-2022/blob/bf7ae15a736171a5472297a80d93899a27c6d2ad/%EA%B9%80%EC%A7%80%ED%98%B8/programmers/programmers_72412.java)|지호|
 | 실패율 |  Lv.1    | [문제](https://programmers.co.kr/learn/courses/30/lessons/42889) |[Code](https://github.com/junghojin/Algorithm-Study-2022/blob/main/%ED%95%9C%EC%84%B8%ED%99%98/programmers/failure_rate.java)|[-]()|[Code](https://github.com/junghojin/Algorithm-Study-2022/blob/d006f84dbdabfc01b0f5044a6eb0d886a95da6bb/%EC%A0%95%ED%98%B8%EC%A7%84/00_CodingTest/Kakao_2019B_lv1.java)|[Code](https://github.com/junghojin/Algorithm-Study-2022/blob/main/%EC%9D%B4%EC%A7%80%EC%9D%80/22%EB%85%846%EC%9B%943%EC%A3%BC/%EC%8B%A4%ED%8C%A8%EC%9C%A8.java)|[-]()|세환|
 
 
