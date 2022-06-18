@@ -24,6 +24,7 @@ We are proceeding Algorithm Study from January, 2022.
 |  카드 짝 맞추기   |  Lv.3   | [문제](https://programmers.co.kr/learn/courses/30/lessons/72415) |[-]()|[-]()|[-]()|[-]()|[-]()|호진|
 |  문자열 압축    |  Lv.2  | [문제](https://programmers.co.kr/learn/courses/30/lessons/60057) |[-]()|[-]()|[-]()|[-]()|[-]()|지은|
 
+---
 
 <details markdown = "1">
 <summary> <h3> ✅ 6월 18일 토요일 스터디11 - </h3> </summary>
