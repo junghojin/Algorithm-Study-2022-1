@@ -16,8 +16,17 @@ We are proceeding Algorithm Study from January, 2022.
 - We decided to upgrade the level of questions from Gold 1 to Gold 5
 - **Reference: https://github.com/tony9402/baekjoon**
 </br>
- 
-<h3> ▶ 6월 18일 토요일 스터디11 - </h3>
+
+ <h3> ▶ 7월 2일 토요일 스터디12  </h3> </summary>
+
+|      문제      | 레벨 |                           URL                             | 세환 | 재철 | 호진 | 지은 | 지호 | 발표 |    
+| :------------: | :--: | :------------------------------------------------------: |:--:|:--:|:--:|:--:| :--:|:--:|     
+|  카드 짝 맞추기   |  Lv.3   | [문제](https://programmers.co.kr/learn/courses/30/lessons/72415) |[-]()|[-]()|[-]()|[-]()|[-]()|호진|
+|  문자열 압축    |  Lv.2  | [문제](https://programmers.co.kr/learn/courses/30/lessons/60057) |[-]()|[-]()|[-]()|[-]()|[-]()|지은|
+
+
+<details markdown = "1">
+<summary> <h3> ✅ 6월 18일 토요일 스터디11 - </h3> </summary>
 
 |      문제      | 레벨 |                           URL                            | 세환 | 재철 | 호진 | 지은 | 지호 | 발표 |  
 | :------------: | :--: | :------------------------------------------------------: |:--:|:--:|:--:|:--:| :--:|:--:|   
@@ -25,7 +34,7 @@ We are proceeding Algorithm Study from January, 2022.
 | 순위 검색 |  Lv.2    | [문제](https://programmers.co.kr/learn/courses/30/lessons/72412) |[-]()|[-]()|[Code](정호진/00_CodingTest/Kakao_2021B_lv2.java)|[-]()|[Code](https://github.com/junghojin/Algorithm-Study-2022/blob/bf7ae15a736171a5472297a80d93899a27c6d2ad/%EA%B9%80%EC%A7%80%ED%98%B8/programmers/programmers_72412.java)|지호|
 | 실패율 |  Lv.1    | [문제](https://programmers.co.kr/learn/courses/30/lessons/42889) |[Code](https://github.com/junghojin/Algorithm-Study-2022/blob/main/%ED%95%9C%EC%84%B8%ED%99%98/programmers/failure_rate.java)|[-]()|[Code](https://github.com/junghojin/Algorithm-Study-2022/blob/d006f84dbdabfc01b0f5044a6eb0d886a95da6bb/%EC%A0%95%ED%98%B8%EC%A7%84/00_CodingTest/Kakao_2019B_lv1.java)|[Code](https://github.com/junghojin/Algorithm-Study-2022/blob/main/%EC%9D%B4%EC%A7%80%EC%9D%80/22%EB%85%846%EC%9B%943%EC%A3%BC/%EC%8B%A4%ED%8C%A8%EC%9C%A8.java)|[-]()|세환|
 
-
+</details>
 ---
 
 <details markdown = "1">
