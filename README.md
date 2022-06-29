@@ -22,7 +22,7 @@ We are proceeding Algorithm Study from January, 2022.
 |      문제      | 레벨 |                           URL                             | 세환 | 재철 | 호진 | 지은 | 지호 | 발표 |    
 | :------------: | :--: | :------------------------------------------------------: |:--:|:--:|:--:|:--:| :--:|:--:|     
 |  카드 짝 맞추기   |  Lv.3   | [문제](https://programmers.co.kr/learn/courses/30/lessons/72415) |[-]()|[-]()|[-]()|[-]()|[-]()|호진|
-|  문자열 압축    |  Lv.2  | [문제](https://programmers.co.kr/learn/courses/30/lessons/60057) |[-]()|[-]()|[-]()|[-]()|[-]()|지은|
+|  문자열 압축    |  Lv.2  | [문제](https://programmers.co.kr/learn/courses/30/lessons/60057) |[-]()|[-]()|[-]()|[-]()|[Code](https://github.com/junghojin/Algorithm-Study-2022/blob/8c25f38c77044d9a108da85c1aefe54dbd86cf94/%EA%B9%80%EC%A7%80%ED%98%B8/programmers/P_60057.java)|지은|
 
 ---
 
