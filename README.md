@@ -10,19 +10,24 @@ We are proceeding Algorithm Study from January, 2022.
 - URL: https://github.com/WeedInGist/Problem-solving.git
 >✔︎ The process we commited can be shown in the above site.
 
-## The 2nd quarter: 
+## The 2nd quarter: 2022.04.02 ~ 2022. 07. 02
 - 우리는 더 높은 레벨의 문제에 도전하기로 하였습니다. 일주일 2문제씩 풀고 내용을 업로드 합니다.
 - 코드 리뷰를 통해 코드를 설명하는 역량을 기르고 다양한 접근법을 공부합니다. 
 - We decided to upgrade the level of questions from Gold 1 to Gold 5
-- **Reference: https://github.com/tony9402/baekjoon**
-</br>
 
- <h3> ▶ 7월 2일 토요일 스터디12  </h3> </summary>
+> We do not proceed this algorithm study anymore. But we decided to have each plan and keep solving problems. 
+> Good luck, everyone!
+
+</br>
+<details markdown = "1">
+<summary> <h3> ▶ 7월 2일 토요일 스터디12  </h3> </summary>
 
 |      문제      | 레벨 |                           URL                             | 세환 | 재철 | 호진 | 지은 | 지호 | 발표 |    
 | :------------: | :--: | :------------------------------------------------------: |:--:|:--:|:--:|:--:| :--:|:--:|     
 |  카드 짝 맞추기   |  Lv.3   | [문제](https://programmers.co.kr/learn/courses/30/lessons/72415) |[-]()|[-]()|[-]()|[-]()|[-]()|호진|
 |  문자열 압축    |  Lv.2  | [문제](https://programmers.co.kr/learn/courses/30/lessons/60057) |[-]()|[Code](https://github.com/junghojin/Algorithm-Study-2022/blob/main/%EC%A0%95%EC%9E%AC%EC%B2%A0/Programmers/Programmers_60057.java)|[-]()|[-]()|[Code](https://github.com/junghojin/Algorithm-Study-2022/blob/8c25f38c77044d9a108da85c1aefe54dbd86cf94/%EA%B9%80%EC%A7%80%ED%98%B8/programmers/P_60057.java)|지은|
+
+</details>
 
 ---
 
