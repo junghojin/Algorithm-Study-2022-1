@@ -1,9 +1,10 @@
-# AlgorithmStudy2022 
-We are proceeding Algorithm Study from January, 2022.  
+# AlgorithmStudy2022
 
-2022년 1월 부터 스터디를 진행하고 있습니다. 
- 
-## The 1st quarter: 
+> We do not proceed this algorithm study anymore. But we decided to have each plan and keep solving problems. 
+> Good luck, everyone!
+
+  
+## The 1st quarter: 2022.01 ~ 2022.03
 - 우리는 첫 시즌을 마무리 하였습니다. 첫 시즌은 알고리즘 책을 이용하여 이론을 학습하고 문제를 풀었습니다.  
 - We finished the first warming up from January to February.
 - Reference book: http://www.yes24.com/Product/Goods/91433923
@@ -13,9 +14,6 @@ We are proceeding Algorithm Study from January, 2022.
 ## The 2nd quarter: 2022.04.02 ~ 2022. 07. 02
 - 우리는 더 높은 레벨의 문제에 도전하기로 하였습니다. 일주일 2문제씩 풀고 내용을 업로드 합니다.
 - 코드 리뷰를 통해 코드를 설명하는 역량을 기르고 다양한 접근법을 공부합니다. 
-
-> We do not proceed this algorithm study anymore. But we decided to have each plan and keep solving problems. 
-> Good luck, everyone!
 
 </br>
 <details markdown = "1">
